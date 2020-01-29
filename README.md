@@ -1,2 +1,2 @@
-# JavaTechTools
-dailyTechSummary
+# JavaInAction
+JavaInAction
